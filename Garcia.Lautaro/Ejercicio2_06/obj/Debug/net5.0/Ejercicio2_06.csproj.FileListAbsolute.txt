@@ -1,0 +1,16 @@
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\obj\Debug\net5.0\Ejercicio2_06.csproj.AssemblyReference.cache
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\obj\Debug\net5.0\Ejercicio2_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\obj\Debug\net5.0\Ejercicio2_06.AssemblyInfoInputs.cache
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\obj\Debug\net5.0\Ejercicio2_06.AssemblyInfo.cs
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\obj\Debug\net5.0\Ejercicio2_06.csproj.CoreCompileInputs.cache
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\bin\Debug\net5.0\Ejercicio2_06.exe
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\bin\Debug\net5.0\Ejercicio2_06.deps.json
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\bin\Debug\net5.0\Ejercicio2_06.runtimeconfig.json
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\bin\Debug\net5.0\Ejercicio2_06.runtimeconfig.dev.json
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\bin\Debug\net5.0\Ejercicio2_06.dll
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\bin\Debug\net5.0\ref\Ejercicio2_06.dll
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\bin\Debug\net5.0\Ejercicio2_06.pdb
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\obj\Debug\net5.0\Ejercicio2_06.dll
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\obj\Debug\net5.0\ref\Ejercicio2_06.dll
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\obj\Debug\net5.0\Ejercicio2_06.pdb
+C:\Users\lauti\source\repos\Garcia.Lautaro\Ejercicio2_06\obj\Debug\net5.0\Ejercicio2_06.genruntimeconfig.cache

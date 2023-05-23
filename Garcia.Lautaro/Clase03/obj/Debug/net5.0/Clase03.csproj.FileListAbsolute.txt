@@ -1,0 +1,16 @@
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\bin\Debug\net5.0\Clase03.exe
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\bin\Debug\net5.0\Clase03.deps.json
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\bin\Debug\net5.0\Clase03.runtimeconfig.json
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\bin\Debug\net5.0\Clase03.runtimeconfig.dev.json
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\bin\Debug\net5.0\Clase03.dll
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\bin\Debug\net5.0\ref\Clase03.dll
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\bin\Debug\net5.0\Clase03.pdb
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\obj\Debug\net5.0\Clase03.csproj.AssemblyReference.cache
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\obj\Debug\net5.0\Clase03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\obj\Debug\net5.0\Clase03.AssemblyInfoInputs.cache
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\obj\Debug\net5.0\Clase03.AssemblyInfo.cs
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\obj\Debug\net5.0\Clase03.csproj.CoreCompileInputs.cache
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\obj\Debug\net5.0\Clase03.dll
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\obj\Debug\net5.0\ref\Clase03.dll
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\obj\Debug\net5.0\Clase03.pdb
+C:\Users\lauti\source\repos\Garcia.Lautaro\Clase03\obj\Debug\net5.0\Clase03.genruntimeconfig.cache
